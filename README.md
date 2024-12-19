@@ -48,7 +48,7 @@ This project is a modern, responsive website designed to toggle a light on and o
 - Add more interactive elements, such as sound effects or additional animations.
 - Save the toggle state using local storage to persist the light state across sessions.
 - Include advanced accessibility features to make the website more inclusive.
-- **Make the website work on Github Pages, instead of only locally. The website only runs properly locally as of Dec. 19, 2024.**
+- **Make the website work on Github Pages, instead of only locally. The website only controls the LED when executed locally as of Dec. 19, 2024.**
 
 ---
 
