@@ -40,7 +40,7 @@ This project is a modern, responsive website designed to toggle a light on and o
    - Media queries and Bootstrap’s grid system were used to ensure compatibility with different devices.
 
 ## How to Use the Website
-1. Open the website in any modern web browser.
+1. Open the index.html in any modern web browser.
 2. Click the glowing button in the center to toggle the light on or off.
 3. Observe the background and button text updating dynamically.
 
@@ -48,6 +48,7 @@ This project is a modern, responsive website designed to toggle a light on and o
 - Add more interactive elements, such as sound effects or additional animations.
 - Save the toggle state using local storage to persist the light state across sessions.
 - Include advanced accessibility features to make the website more inclusive.
+- **Make the website work on Github Pages, instead of only locally. The website only runs properly locally as of Dec. 19, 2024.**
 
 ---
 
